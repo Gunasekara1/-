@@ -6,7 +6,7 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
    "env": {
   
- "OWNER_NAME" :{
+ "OWNER_NAME" :{𝔸ℕ𝕌𝕊ℍ𝕂𝔸_ℕ𝕌𝕎𝔸ℕ
     "description" : "enter you name",
     "required" : true,
   "value" : "𝔸ℕ𝕌𝕊ℍ𝕂𝔸 ℕ𝕌𝕎𝔸ℕ "
